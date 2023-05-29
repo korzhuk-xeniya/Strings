@@ -8,6 +8,8 @@ public class Main {
 
     public static void task1() {
         System.out.println("Задача 1");
+        String firstname = "Ivanov";
+
     }
 
     public static void task2() {
